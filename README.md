@@ -16,6 +16,9 @@
 - [Vuex-Mutation](https://github.com/lihuiyang99/liHuiYang.github.io/issues/22) 
 - [Vuex-Action](https://github.com/lihuiyang99/liHuiYang.github.io/issues/23) 
 
+### Vue
+- [Vue1.0基础](https://github.com/lihuiyang99/liHuiYang.github.io/issues/27) 
+
 ### ES6
 - [ES6学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/10) 
 - [ES6--Promise学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/8) 
@@ -27,6 +30,19 @@
 
 ### Git
 - [Git学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/15) 
+
+### Webpack
+- [webpack基础-1](https://github.com/lihuiyang99/liHuiYang.github.io/issues/29) 
+- [webpack基础2-entry](https://github.com/lihuiyang99/liHuiYang.github.io/issues/30) 
+- [webpack基础3-output](https://github.com/lihuiyang99/liHuiYang.github.io/issues/31) 
+
+### JS
+- [JS中继承](https://github.com/lihuiyang99/liHuiYang.github.io/issues/25) 
+- [JS中this用法总结](https://github.com/lihuiyang99/liHuiYang.github.io/issues/24) 
+- [JS中四种检测方式](https://github.com/lihuiyang99/liHuiYang.github.io/issues/26) 
+
+### Node
+- [Node学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/28) 
 
 ### 服务器Node环境搭建
 - [服务器Node环境搭建](https://github.com/lihuiyang99/liHuiYang.github.io/issues/18) 
