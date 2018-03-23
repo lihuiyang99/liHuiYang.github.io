@@ -35,6 +35,8 @@
 - [webpack基础-1](https://github.com/lihuiyang99/liHuiYang.github.io/issues/29) 
 - [webpack基础2-entry](https://github.com/lihuiyang99/liHuiYang.github.io/issues/30) 
 - [webpack基础3-output](https://github.com/lihuiyang99/liHuiYang.github.io/issues/31) 
+- [webpack基础4-Loader](https://github.com/lihuiyang99/liHuiYang.github.io/issues/32) 
+- [webpack基础5-Plugins](https://github.com/lihuiyang99/liHuiYang.github.io/issues/33) 
 
 ### JS
 - [JS中继承](https://github.com/lihuiyang99/liHuiYang.github.io/issues/25) 
