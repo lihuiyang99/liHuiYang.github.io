@@ -9,12 +9,16 @@
 - [Three.js入门学习5-光源](https://github.com/lihuiyang99/liHuiYang.github.io/issues/5) 
 - [Three.js入门学习6-纹理](https://github.com/lihuiyang99/liHuiYang.github.io/issues/6) 
 - [Three.js入门学习7-射线拾取](https://github.com/lihuiyang99/liHuiYang.github.io/issues/7) 
-### Vuex
+### vue数据传递状态管理器-Vuex
 - [Vuex-开篇](https://github.com/lihuiyang99/liHuiYang.github.io/issues/19) 
 - [Vuex-State](https://github.com/lihuiyang99/liHuiYang.github.io/issues/20) 
 - [Vuex-Getter](https://github.com/lihuiyang99/liHuiYang.github.io/issues/21) 
 - [Vuex-Mutation](https://github.com/lihuiyang99/liHuiYang.github.io/issues/22) 
 - [Vuex-Action](https://github.com/lihuiyang99/liHuiYang.github.io/issues/23) 
+### vue数据传递 - props、$emit、vue-router中 query、params、eventBus
+- [vue数据传递-eventBus](https://github.com/lihuiyang99/liHuiYang.github.io/issues/34) 
+ 
+
 
 ### Vue
 - [Vue1.0基础](https://github.com/lihuiyang99/liHuiYang.github.io/issues/27) 
