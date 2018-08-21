@@ -36,6 +36,7 @@
 
 ### Git
 - [Git学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/15) 
+- [Git commit提交代码信息规则](https://github.com/lihuiyang99/liHuiYang.github.io/issues/36)
 
 ### Webpack
 - [webpack基础-1](https://github.com/lihuiyang99/liHuiYang.github.io/issues/29) 
@@ -56,6 +57,9 @@
 - [服务器Node环境搭建](https://github.com/lihuiyang99/liHuiYang.github.io/issues/18) 
 - [Node中间层搭建](https://github.com/lihuiyang99/liHuiYang.github.io/issues/35) 
 
+### 项目构建上线工具
+- [jenkins简述](https://github.com/lihuiyang99/liHuiYang.github.io/issues/37)
+- [deployer简述](https://github.com/lihuiyang99/liHuiYang.github.io/issues/38)
 ### 微信开发
 - [微信开发](https://github.com/lihuiyang99/liHuiYang.github.io/issues/17) 
 
