@@ -1,6 +1,8 @@
 ### 简介
 记录学习、记录成长
 
+
+
 ### THREE.js
 - [Three.js入门学习1 ](https://github.com/lihuiyang99/liHuiYang.github.io/issues/1) 
 - [Three.js入门学习2-点线面](https://github.com/lihuiyang99/liHuiYang.github.io/issues/2)
@@ -52,6 +54,7 @@
 
 ### 服务器Node环境搭建
 - [服务器Node环境搭建](https://github.com/lihuiyang99/liHuiYang.github.io/issues/18) 
+- [Node中间层搭建](https://github.com/lihuiyang99/liHuiYang.github.io/issues/35) 
 
 ### 微信开发
 - [微信开发](https://github.com/lihuiyang99/liHuiYang.github.io/issues/17) 
