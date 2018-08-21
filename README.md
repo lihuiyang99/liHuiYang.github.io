@@ -3,7 +3,7 @@
 
 
 
-### THREE.js
+### THREE.js(持续学习中···)
 - [Three.js入门学习1 ](https://github.com/lihuiyang99/liHuiYang.github.io/issues/1) 
 - [Three.js入门学习2-点线面](https://github.com/lihuiyang99/liHuiYang.github.io/issues/2)
 - [Three.js入门学习3-让场景动起来](https://github.com/lihuiyang99/liHuiYang.github.io/issues/3) 
@@ -20,8 +20,6 @@
 ### vue数据传递 - props、$emit、vue-router中 query、params、eventBus
 - [vue数据传递-eventBus](https://github.com/lihuiyang99/liHuiYang.github.io/issues/34) 
  
-
-
 ### Vue
 - [Vue1.0基础](https://github.com/lihuiyang99/liHuiYang.github.io/issues/27) 
 
