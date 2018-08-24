@@ -23,6 +23,9 @@
 ### Vue
 - [Vue1.0基础](https://github.com/lihuiyang99/liHuiYang.github.io/issues/27) 
 
+### 页面渲染
+ - [从输入url到页面加载完成发生了什么？——前端角度](https://github.com/lihuiyang99/liHuiYang.github.io/issues/39)
+
 ### ES6
 - [ES6学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/10) 
 - [ES6--Promise学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/8) 
