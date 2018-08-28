@@ -14,7 +14,8 @@
 ### 页面渲染
  - [从输入url到页面加载完成发生了什么？——前端角度](https://github.com/lihuiyang99/liHuiYang.github.io/issues/39)
  - [什么是服务器端渲染和客户端渲染](https://github.com/lihuiyang99/liHuiYang.github.io/issues/40)
- - [vue.js服务器端渲染（了解）](https://github.com/lihuiyang99/liHuiYang.github.io/issues/41)
+ - [vue.js服务器端渲染(SSR)（了解）](https://github.com/lihuiyang99/liHuiYang.github.io/issues/41)
+ - [vue预渲染（Prerendering）—使用prerender-spa-plugin插件处理](https://github.com/lihuiyang99/liHuiYang.github.io/issues/42)
 
 
 ### Vue
