@@ -32,7 +32,7 @@
 - [JS中继承](https://github.com/lihuiyang99/liHuiYang.github.io/issues/25) 
 - [JS中this用法总结](https://github.com/lihuiyang99/liHuiYang.github.io/issues/24) 
 - [JS中四种检测方式](https://github.com/lihuiyang99/liHuiYang.github.io/issues/26) 
-- [ES6学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/10) 
+- [ES6基础方法学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/10) 
 - [ES6--Promise学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/8) 
 - [ES6--async学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/11) 
 - [ES6--babel学习(1)](https://github.com/lihuiyang99/liHuiYang.github.io/issues/12) 
