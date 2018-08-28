@@ -25,6 +25,8 @@
 
 ### 页面渲染
  - [从输入url到页面加载完成发生了什么？——前端角度](https://github.com/lihuiyang99/liHuiYang.github.io/issues/39)
+ - [什么是服务器端渲染和客户端渲染](https://github.com/lihuiyang99/liHuiYang.github.io/issues/40)
+ - [vue.js服务器端渲染（了解）](https://github.com/lihuiyang99/liHuiYang.github.io/issues/41)
 
 ### ES6
 - [ES6学习](https://github.com/lihuiyang99/liHuiYang.github.io/issues/10) 
