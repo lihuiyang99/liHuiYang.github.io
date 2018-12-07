@@ -18,9 +18,12 @@
  - [vue预渲染（Prerendering）—使用prerender-spa-plugin插件处理](https://github.com/lihuiyang99/liHuiYang.github.io/issues/42)
 
 ### 手机app调试相关
-    - [adb chrome插件 调试app页面](https://github.com/lihuiyang99/liHuiYang.github.io/issues/43)
-    - [小茶壶Charles、spy-debugger]()
-    - [postman]()
+
+  - [adb chrome插件调试app页面](https://github.com/lihuiyang99/liHuiYang.github.io/issues/43)
+  - 小茶壶Charles、spy-debugger
+  - postman
+  
+
 ### Vue
 - [Vue1.0基础](https://github.com/lihuiyang99/liHuiYang.github.io/issues/27) 
 - vue数据传递状态管理器-Vuex
