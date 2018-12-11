@@ -34,6 +34,8 @@
     - [Vuex-Action](https://github.com/lihuiyang99/liHuiYang.github.io/issues/23)
 - vue数据传递 - props、$emit、vue-router中 query、params、eventBus
     - [vue数据传递-eventBus](https://github.com/lihuiyang99/liHuiYang.github.io/issues/34)
+- vue插件
+   [vue移动端插件vux安装流程](https://github.com/lihuiyang99/liHuiYang.github.io/issues/44)
 
 ### JS
 - [JS中继承](https://github.com/lihuiyang99/liHuiYang.github.io/issues/25) 
